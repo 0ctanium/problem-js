@@ -1,6 +1,29 @@
 {
   "name": "problem-js",
   "version": "0.0.1",
+  "description": "Problem-js is a JavaScript integration for the Problem Details for HTTP APIs standard (RFC 9457)",
+  "keywords": [
+    "errors",
+    "middleware",
+    "exceptions",
+    "RFC-9457",
+    "javascript",
+    "typescript"
+  ],
+  "author": {
+    "email": "mail@benjaminlepas.fr",
+    "name": "Benjamin Lepas",
+    "url": "https://benjaminlepas.fr"
+  },
+  "homepage": "https://github.com/0ctanium/problem-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0ctanium/problem-js",
+    "directory": "packages/problem-js"
+  },
+  "bugs": {
+    "url": "https://github.com/0ctanium/problem-js/issues/new"
+  },
   "dependencies": {},
   "type": "commonjs",
   "main": "./index.cjs",
