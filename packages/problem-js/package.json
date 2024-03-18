@@ -2,6 +2,7 @@
   "name": "problem-js",
   "version": "0.0.1",
   "description": "Problem-js is a JavaScript integration for the Problem Details for HTTP APIs standard (RFC 9457)",
+  "license": "MIT",
   "keywords": [
     "errors",
     "middleware",

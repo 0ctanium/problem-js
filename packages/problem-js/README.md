@@ -1,11 +1,10 @@
-# problem-js
+# ProblemJs
 
-This library was generated with [Nx](https://nx.dev).
+Problem-js is a JavaScript integration for the Problem Details for HTTP APIs standard (see [RFC 9457](https://datatracker.ietf.org/doc/html/rfc9457))
 
-## Building
+> [!NOTE]
+> This file is still a Work In Progress...
 
-Run `nx build problem-js` to build the library.
+## How to contribute
 
-## Running unit tests
-
-Run `nx test problem-js` to execute the unit tests via [Vitest](https://vitest.dev/).
+See [CONTRIBUTING.md](./CONTRIBUTING.md)

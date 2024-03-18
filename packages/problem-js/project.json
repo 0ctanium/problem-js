@@ -1,7 +1,7 @@
 {
   "name": "problem-js",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "packages/problem-js/src",
+  "sourceRoot": "packages/problem-js",
   "projectType": "library",
   "targets": {
     "build": {
@@ -11,7 +11,7 @@
         "outputPath": "dist/packages/problem-js",
         "main": "packages/problem-js/src/index.ts",
         "tsConfig": "packages/problem-js/tsconfig.lib.json",
-        "assets": [],
+        "assets": ["packages/problem-js/README.md"],
         "project": "packages/problem-js/package.json",
         "compiler": "swc",
         "format": ["cjs", "esm"]
